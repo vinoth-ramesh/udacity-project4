@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<Vinoth-Ramesh>](https://circleci.com/gh/vinoth-ramesh/udacity-project4.svg?style=svg)](https://circleci.com/gh/vinoth-ramesh/udacity-project4)
 
 ## Project Overview
 
