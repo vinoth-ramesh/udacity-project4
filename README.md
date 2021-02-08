@@ -50,7 +50,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * model_data - ML model related data (model, csv data)
 * output_txt_files - project output files (docker, kubernetes)
   * docker_out.txt - run_docker.sh output
-  * docker_prediction_out.txt - make_prediction.sh output while running docker
+  * kubernetes_out.txt - run_kubernetes.sh output
 * app.py - python web application entry point file
 * Dockerfile - docker image config
 * make_prediction.sh - make prediction HTTP call script
