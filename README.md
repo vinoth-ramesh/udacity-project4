@@ -10,7 +10,7 @@ You are given a pre-trained, `sklearn` model that has been trained to predict ho
 
 Project goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications.
 
-###Project Steps
+### Project Steps
  
 * Test the project code using linting
 * Have a Dockerfile to containerize the application
